@@ -12,3 +12,7 @@
 
 - [Miłosz Bedryło, Artur Kręgiel](https://github.com/Ite-2022-pwr/sem4-oiak-proj-mb-ak)
 - [Paulina Korus, Dominik Pokrzywa](https://github.com/Ite-2022-pwr/sem4-oiak-proj-dp-pk)
+
+## Dodatkowe materiały
+
+- [Zrozumieć asemblera tutorial](https://github.com/Ite-2022-pwr/x86_Assembly_101) - **IN PROGRESS**
