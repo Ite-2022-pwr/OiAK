@@ -1,5 +1,7 @@
 # Organizacja i architektura komputerów - laboratoria i projekt
 
+Informatyka techniczna, semestr 4, lato 2024
+
 ## Grupy prowadzącego [dr inż. Dominika Żelaznego](https://wit.pwr.edu.pl/wydzial/struktura-organizacyjna/pracownicy/dominik-zelazny)
 
 ### Laboratoria
